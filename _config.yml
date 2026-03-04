@@ -5,10 +5,10 @@ title            : "Luke Shi Liu"
 title_separator  : "-"
 name             : &name "Luke Shi Liu" 
 description      : &description "HCI Researcher focusing on Human-Centered AI, Extended Reality (XR), and Biosignal-adaptive Systems." 
-url              : "https://lukeliu.github.io" 
+url              : "https://lukeliuhci.github.io" 
                    # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl          : "" # the subpath of your site, e.g. "/blog"
-repository       : "lukeliu/lukeliu.github.io" 
+repository       : "lukeliuhci/lukeliuhci.github.io" 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
