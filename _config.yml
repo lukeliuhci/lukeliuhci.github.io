@@ -1,11 +1,10 @@
 # Basic Site Settings
 locale           : "en-US"
 site_theme       : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title            : "Luke Shi Liu" 
+title            : "Luke Shi Liu - HCI Researcher"
 title_separator  : "-"
 name             : &name "Luke Shi Liu" 
-description      : &description "HCI Researcher focusing on Human-Centered AI, Extended Reality (XR), and Biosignal-adaptive Systems." 
-url              : "https://lukeliuhci.github.io" 
+description      : &description &description "Academic portfolio of Luke Shi Liu, HCI Researcher at Karlsruhe Institute of Technology focusing on Human-Centered AI, Extended Reality (XR), and Biosignal-adaptive Systems."
                    # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl          : "" # the subpath of your site, e.g. "/blog"
 repository       : "lukeliuhci/lukeliuhci.github.io" 
