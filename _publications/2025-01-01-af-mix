@@ -1,0 +1,11 @@
+---
+title: "AF-Mix: A Gaze-Aware Learning System with Attention Feedback in Mixed Reality"
+collection: publications
+permalink: /publication/2025-01-01-af-mix
+excerpt: 'This article was published in the International Journal of Human-Computer Studies.'
+date: 2025-02-21
+venue: 'International Journal of Human-Computer Studies'
+paperurl: 'https://doi.org/10.1016/j.ijhcs.2025.103467' 
+citation: 'Liu, S., Toreini, P., &amp; Maedche, A. (2025). &quot;AF-Mix: A gaze-aware learning system with attention feedback in mixed reality.&quot; <i>International Journal of Human-Computer Studies</i>, 198, 103467.'
+---
+Mixed Reality (MR) has demonstrated its potential in various learning contexts. MR-based learning environments empower users to actively explore learning content visualized in multiple formats, such as 3D models, videos, and images. Nonetheless, the sophisticated visualizations in MR learning environments may result in potential visual overload, posing a challenge for users in efficiently allocating their attention. In this paper, we present AF-Mix, a learning support system that leverages eye tracking sensors in Microsoft HoloLens 2 to offer attention feedback for learners. Aiming to design AF-Mix, we conducted a participatory design study and integrated the attention feedback into our system, following users’ needs and suggestions. Furthermore, we evaluated AF-Mix in an evaluation study (n 22) following a quantitative analysis of users’ visual behavior, as well as a qualitative analysis of interview transcripts. Our findings show that providing feedback to support the learning process can be achieved effectively with eye tracking. In specific, attention feedback assists learners in retrieving previously missed information and encourages learners to reallocate their attention in the review process. Moreover, providing personalized feedback based on previous attention allocation is more effective in supporting users than a self-review approach without gaze-aware assistance in MR. Such feedback facilitates users in managing their limited attentional resources better and supports the reflection of their learning journey more effectively.
