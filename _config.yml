@@ -1,7 +1,7 @@
 # Basic Site Settings
 locale           : "en-US"
 site_theme       : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title            : "Luke Shi Liu - HCI Researcher"
+title            : "Luke Shi Liu"
 title_separator  : "-"
 name             : &name "Luke Shi Liu" 
 description      : &description "Academic portfolio of Luke Shi Liu, HCI Researcher at Karlsruhe Institute of Technology focusing on Human-Centered AI, Extended Reality (XR), and Biosignal-adaptive Systems."
